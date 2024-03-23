@@ -1,0 +1,178 @@
+.body
+{
+	display: flex;
+}
+.contener
+{
+	position: absolute;
+	height: 100%;
+	width:100%;
+	padding: 10px;
+}
+.main
+{
+	height:400px;
+	text-align: center;
+	width:700px;
+	background-color:rgb(38,248,253);
+	opacity: 1.8;
+}
+
+.img
+{
+	background-image: url("com.jpg");
+	height: 900px;
+	position: relative;
+	width: 900px;
+}
+
+.A
+{
+	color: white;
+	position: absolute;
+	height: 200px;
+	width: 60px;
+	margin-left:80px; 
+	font-size: 30px;
+	top: 30px;
+
+}
+.A1
+{
+	background-color: yellow;
+	opacity: 0.7;
+	color: white;
+	position: absolute;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-left: 400px;
+	direction: rtl;
+	height: 190px;
+	width: 100px;
+	top:8px;
+	right: 100px;
+}
+.img2
+{   position: absolute;
+	height:50px;
+	width:50px;
+	top:320px;
+	left:540px;
+}
+.A2
+{
+	height: 30PX;
+	color: white;
+	position: absolute;
+	width: 200PX;
+	text-align: center;
+	letter-spacing: 25PX;
+	font-size: 37px;
+	top: 360PX;
+	left:290px;
+}
+.A3
+{
+	position: absolute;
+	width: 780PX;
+	color: white;
+	text-align: center;
+	letter-spacing: 12PX;
+    top: 500px;
+    left: 240px;
+
+}
+.B
+{
+	height:400PX;
+	width: 100%;
+	background-color: white;
+	position: relative;
+	top: 300px;
+}   
+span
+{
+	color:(174,207,9);
+}
+.B1
+{
+	height: 100px;
+	width: 100%;
+	color: yellow;
+	letter-spacing: 5px;
+	font-size: 50px;
+	right: 30px;
+}
+.line
+{
+	
+	width: 1400px; 
+}
+span
+{
+	color: rgb(8,153,158);
+}
+.B2
+{
+	color: black;
+	padding-top: 60px;
+	position: absolute;
+	width:900px;
+	font-size: 25px;
+	left: 150px;
+	top: 50px;
+}
+.B3
+{
+	color: black;
+	padding-top:60px;
+	position: absolute;
+    width: 600px;
+	font-size:20px;
+	right:20px;
+	top: 50px;
+}
+span
+{
+	color: rgb(8,153,158);
+}
+.B4
+{
+	position: absolute;
+	top:160px;
+	width: 390px;
+	right:220px;
+	font-size: 25px; 
+}
+.main2
+{
+  bottom:0px;
+  position: relative;
+  left:100px; 
+  right:150px;
+  top: 20px;
+  
+}
+.left
+{
+	position: relative;
+	top: 300px;
+	left: 100px;
+
+}
+.center
+{ 
+  position: relative;
+  top:320px;
+  left: 400px;
+  top: 200px;
+
+}
+.right
+{
+	position: absolute;
+	top: 290px;
+	right: 400px;
+
+}
